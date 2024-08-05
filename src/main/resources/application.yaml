@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SpringKafka
+  kafka:
+    bootstrap-servers: localhost:29092
